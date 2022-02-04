@@ -1,8 +1,8 @@
-#Aditional information
+# Aditional information
 
-##Manuscript: "Cluster-Then-Classify Methodology for the Identification of Pain Episodes in Chronic Diseases"
+## Manuscript: "Cluster-Then-Classify Methodology for the Identification of Pain Episodes in Chronic Diseases"
 
-In this repo you can find:
+In this repo you can find a folder with:
 
 - XXXX.png: ...
 
